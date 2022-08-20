@@ -37,6 +37,7 @@ The fourth module is the one used to discover columns, in this case, since the e
 
 The fifth module is used to dump the columns that interest you from the table and the database that you choose, you have to manually write the (database/table/column) and if you want to dump two columns it would be like this (database/table/column1:column2)
 
+![image](https://user-images.githubusercontent.com/79543461/185762712-398edb55-a2cc-48d9-9e0b-f3253b661301.png)
 
 
 **Basic Usage**
