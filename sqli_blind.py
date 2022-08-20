@@ -490,7 +490,7 @@ def polla():
             sys.exit(1)
         
 if args.X == "post":
-    #post()
+    post()
     post2()   
 else:
     print("Get it's not avaible")
